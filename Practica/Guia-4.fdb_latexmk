@@ -1,5 +1,5 @@
 # Fdb version 4
-["pdflatex"] 1713919233.86315 "c:/Users/Sol/Documents/facultad/Algo II/Algo2/AED-2/Practica/Guia-4.tex" "Guia-4.pdf" "Guia-4" 1713919235.10878 0
+["pdflatex"] 1713927978.48902 "c:/Users/Sol/Documents/facultad/Algo II/Algo2/AED-2/Practica/Guia-4.tex" "Guia-4.pdf" "Guia-4" 1713927981.80867 0
   "C:/Users/Sol/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1713914073 94737 1df2944d6e0abc1e958c21ff5fe21ab6 ""
   "C:/Users/Sol/AppData/Local/MiKTeX/fonts/pk/ljfour/jknappen/ec/dpi600/ecbx1200.pk" 1713912225 31952 8e41f67b2844caccc42e0d00bad52b73 ""
   "C:/Users/Sol/AppData/Local/MiKTeX/fonts/pk/ljfour/jknappen/ec/dpi600/ecbx1440.pk" 1713911680 40136 f6e98a2576c84309779aa68a1c92e681 ""
@@ -71,9 +71,9 @@
   "C:/Users/Sol/AppData/Local/Programs/MiKTeX/tex/latex/upquote/upquote.sty" 1335534756 1088 517e01cde97c1c0baf72e69d43aa5a2e ""
   "C:/Users/Sol/AppData/Local/Programs/MiKTeX/tex/latex/xcolor/xcolor.sty" 1700127522 55487 80a65caedd3722f4c20a14a69e785d8f ""
   "C:/Users/Sol/AppData/Local/Programs/MiKTeX/tex/latex/xkeyval/xkeyval.sty" 1656236919 4937 4ce600ce9bd4ec84d0250eb6892fcf4f ""
-  "Guia-4.aux" 1713919234 625 ae7b8e0c10a70e9590c7d732f0c42ffd "pdflatex"
-  "Guia-4.tex" 1713919230 6164 31f8b88da2c076f0418988de98f8a171 ""
-  "c:/Users/Sol/Documents/facultad/Algo II/Algo2/AED-2/Practica/Guia-4.tex" 1713919230 6164 31f8b88da2c076f0418988de98f8a171 ""
+  "Guia-4.aux" 1713927980 823 281dee7df55a05c7c97414f3ba940665 "pdflatex"
+  "Guia-4.tex" 1713927976 10286 6257a3c41874a61b0fe9f3f9b040572c ""
+  "c:/Users/Sol/Documents/facultad/Algo II/Algo2/AED-2/Practica/Guia-4.tex" 1713927976 10286 6257a3c41874a61b0fe9f3f9b040572c ""
   "macros/AEDmacros.tex" 1713913094 5046 a29b5124b00f3f425c63e9a9999700f1 ""
   "macros/caratula.sty" 1713913100 11328 05ec53e94fba8949777aa2b68e79c139 ""
   (generated)
